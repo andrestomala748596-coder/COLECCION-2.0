@@ -27342,5 +27342,27 @@
       "https://videa.hu/videok/film-animacio/gigila-leyenda-de-la-llorona-llYNQXf6s5CKDaB8"
     ],
     "METODO": "MANUAL"
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 1094473,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "Bambi: Una Aventura en el Bosque",
+    "FECHA": "2024-10-16",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/ha1QwoYeDGYCcrJ63vOGIsHoFdD.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/ce51NvJSO5ReNkm3C3YDX5jsH1V.jpg",
+    "GENERO": "Documental, Familia, Aventura",
+    "RATING": 6.5,
+    "DURACION": 78,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "La vida de Bambi, un corzo macho, desde su nacimiento hasta su infancia, la pérdida de su madre, la búsqueda de una pareja, las lecciones que aprende de su padre y la experiencia que adquiere sobre los peligros que plantean los cazadores humanos en el bosque.",
+    "ACTORES": "  • Mylène Farmer (Narrator (voice))\n  • Senta Berger ()\n  • Arja Koriseva ()",
+    "DIRECTOR": "Michel Fessler",
+    "TRAILER": "https://youtube.com/watch?v=Yk4q4w-XuKg",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/b-u-a-e-bs-zlXRxfkqmR8Z3lYs"
+    ],
+    "METODO": "MANUAL"
   }
 ]
