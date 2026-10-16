@@ -2195,10 +2195,13 @@
     ],
     "METODO": "MANUAL",
     "URLS_DIRECTAS": [
-      "https://vd489.okcdn.ru/?expires=1791636523962&srcIp=172.178.119.37&pr=10&srcAg=CHROME&ms=95.163.35.115&type=3&sig=ZiEcOPFvAZI&ct=0&urls=185.226.55.108&clientType=0&zs=43&id=6697289190020"
+      "https://vd489.okcdn.ru/?expires=1791636523962&srcIp=172.178.119.37&pr=10&srcAg=CHROME&ms=95.163.35.115&type=3&sig=ZiEcOPFvAZI&ct=0&urls=185.226.55.108&clientType=0&zs=43&id=6697289190020",
+      "https://vd489.okcdn.ru/?expires=1792202162907&srcIp=20.3.221.179&pr=10&srcAg=CHROME&ms=95.163.35.115&type=3&sig=wvsh2jef1-M&ct=0&urls=176.112.172.44&clientType=0&zs=43&id=6697289190020"
     ],
     "URL_DIRECTA": "https://vd489.okcdn.ru/?expires=1791636523962&srcIp=172.178.119.37&pr=10&srcAg=CHROME&ms=95.163.35.115&type=3&sig=ZiEcOPFvAZI&ct=0&urls=185.226.55.108&clientType=0&zs=43&id=6697289190020",
-    "_EXTRACTED_BY_URL": {},
+    "_EXTRACTED_BY_URL": {
+      "https://ok.ru/video/7436130716292": "https://vd489.okcdn.ru/?expires=1792202162907&srcIp=20.3.221.179&pr=10&srcAg=CHROME&ms=95.163.35.115&type=3&sig=wvsh2jef1-M&ct=0&urls=176.112.172.44&clientType=0&zs=43&id=6697289190020"
+    },
     "_EXTRACTION_ERRORS": [
       "ConnectionError: HTTPSConnectionPool(host='ok.ru', port=443): Read timed out.",
       "No se pudo extraer: https://ok.ru/video/7436130716292"
