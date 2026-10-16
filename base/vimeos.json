@@ -1,0 +1,353 @@
+[
+  {
+    "CATEGORIA": "GENERAL",
+    "TMDB_ID": 3170,
+    "ID_VIDEO": "woptqizvlzxi",
+    "PLATAFORMA": "Vimeos",
+    "TITULO": "Bambi",
+    "FECHA": "1942-08-14",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/90Shq6yU7vqXskmZbX2AEf57ddy.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/rKgqYwlpU32ZO9UTCuXNdhdnU4B.jpg",
+    "GENERO": "Animación, Drama, Familia",
+    "RATING": 7.015,
+    "DURACION": 70,
+    "FRASE_PROMOCIONAL": "Un gran historia de amor.",
+    "SINOPSIS": "Con los primeros rayos del sol iluminando la pradera, un nuevo príncipe ha nacido en el bosque. Tan pronto como Bambi aprende a dar sus primeros pasos, comienza a jugar con sus nuevos amigos, Tambor, el conejo juguetón, y Flor, la tímida y adorable mofeta. Pero la diversión de patinar sobre el lago helado, de mordisquear las florecillas y de juguetear entre los árboles del bosque será sólo el principio de un largo aprendizaje. Guiado por su sabio amigo el Búho, Bambi aprenderá lecciones sobre el valor del amor, la pérdida de los seres queridos, la madurez; en definitiva, aprenderá a seguir el camino de la vida.",
+    "ACTORES": "  • Donnie Dunagan (Young Bambi (voice) (uncredited))\n  • Peter Behn (Young Thumper (voice) (uncredited))\n  • Stan Alexander (Young Flower (voice) (uncredited))\n  • Cammie King (Young Faline (voice) (uncredited))\n  • Will Wright (Friend Owl (voice) (uncredited))",
+    "DIRECTOR": "David Hand",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://vimeos.net/embed-woptqizvlzxi.html"
+    ],
+    "METODO": "AUTOMATICO",
+    "URLS_DIRECTAS": [
+      "https://p5.vimeos.zip/hls2/02/00000/yx1a37tzkqrr_,n,h,.urlset/master.m3u8?t=rmsbNMUotd_KE_UUtsPw_baJoPEdOoJs4kb19g7twSw&s=1792110721&e=43200&v=397150446&srv=s14&i=0.0&sp=0&r=e"
+    ],
+    "URL_DIRECTA": "https://p5.vimeos.zip/hls2/02/00000/yx1a37tzkqrr_,n,h,.urlset/master.m3u8?t=rmsbNMUotd_KE_UUtsPw_baJoPEdOoJs4kb19g7twSw&s=1792110721&e=43200&v=397150446&srv=s14&i=0.0&sp=0&r=e",
+    "_EXTRACTED_BY_URL": {
+      "https://vimeos.net/embed-woptqizvlzxi.html": "https://p5.vimeos.zip/hls2/02/00000/yx1a37tzkqrr_,n,h,.urlset/master.m3u8?t=rmsbNMUotd_KE_UUtsPw_baJoPEdOoJs4kb19g7twSw&s=1792110721&e=43200&v=397150446&srv=s14&i=0.0&sp=0&r=e"
+    }
+  },
+  {
+    "CATEGORIA": "GENERAL",
+    "TMDB_ID": 1084244,
+    "ID_VIDEO": "q0siugndjwh2",
+    "PLATAFORMA": "Vimeos",
+    "TITULO": "Toy Story 5",
+    "FECHA": "2026-06-17",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/zkQmhKTszD48vEcjIfwAlqLnGSr.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
+    "GENERO": "Animación, Familia, Comedia, Aventura",
+    "RATING": 8.018,
+    "DURACION": 102,
+    "FRASE_PROMOCIONAL": "Se activó.",
+    "SINOPSIS": "Cuando Woody logra regresar con Buzz, Jessie y el resto de la pandilla, descubren una nueva amenaza: la tecnología. Un nuevo tiempo de juego para los niños.",
+    "ACTORES": "  • Joan Cusack (Jessie (voice))\n  • Tom Hanks (Woody (voice))\n  • Tim Allen (Buzz Lightyear (voice))\n  • Conan O'Brien (Smarty Pants (voice))\n  • Scarlett Spears (Bonnie (voice))",
+    "DIRECTOR": "Andrew Stanton",
+    "TRAILER": "https://youtube.com/watch?v=DW8GC9SQ9Xw",
+    "URLS": [
+      "https://vimeos.net/embed-q0siugndjwh2.html"
+    ],
+    "METODO": "AUTOMATICO",
+    "URLS_DIRECTAS": [
+      "https://s9.vimeos.net/hls2/03/00012/q0siugndjwh2_,n,h,.urlset/master.m3u8?t=Z1XquG5sOcA88jXq2LerZvhLcWcx6irW2GK4xODpq7s&s=1792110722&e=43200&v=397150470&i=0.0&sp=0&fr=q0siugndjwh2&r=e"
+    ],
+    "URL_DIRECTA": "https://s9.vimeos.net/hls2/03/00012/q0siugndjwh2_,n,h,.urlset/master.m3u8?t=Z1XquG5sOcA88jXq2LerZvhLcWcx6irW2GK4xODpq7s&s=1792110722&e=43200&v=397150470&i=0.0&sp=0&fr=q0siugndjwh2&r=e",
+    "_EXTRACTED_BY_URL": {
+      "https://vimeos.net/embed-q0siugndjwh2.html": "https://s9.vimeos.net/hls2/03/00012/q0siugndjwh2_,n,h,.urlset/master.m3u8?t=Z1XquG5sOcA88jXq2LerZvhLcWcx6irW2GK4xODpq7s&s=1792110722&e=43200&v=397150470&i=0.0&sp=0&fr=q0siugndjwh2&r=e"
+    }
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 277834,
+    "ID_VIDEO": "p7h65pr4l32z",
+    "PLATAFORMA": "Vimeos",
+    "TITULO": "Moana: Un mar de aventuras",
+    "FECHA": "2016-10-13",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/hw4FlDdufQuLIsYiqBYIL0Bxn26.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/qLVNZFHYUR6Li64He67SWl6BHQe.jpg",
+    "GENERO": "Aventura, Comedia, Familia, Animación",
+    "RATING": 7.566,
+    "DURACION": 107,
+    "FRASE_PROMOCIONAL": "El océano te llama.",
+    "SINOPSIS": "En la antigua Polinesia, cuando una terrible maldición del semidiós Maui llega a la isla de Moana, ella responde al llamado del océano para buscar al semidiós y arreglar las cosas.",
+    "ACTORES": "  • Auliʻi Cravalho (Moana (voice))\n  • Dwayne Johnson (Maui (voice))\n  • Rachel House (Gramma Tala (voice))\n  • Temuera Morrison (Chief Tui (voice))\n  • Jemaine Clement (Tamatoa (voice))",
+    "DIRECTOR": "John Musker",
+    "TRAILER": "https://youtube.com/watch?v=JRw_t5MZJOw",
+    "URLS": [
+      "https://vimeos.net/embed-p7h65pr4l32z.html"
+    ],
+    "METODO": "AUTOMATICO",
+    "URLS_DIRECTAS": [
+      "https://p7.vimeos.zip/hls2/02/00007/p7h65pr4l32z_,n,h,.urlset/master.m3u8?t=ABXBb5JNY2V1czuzJbYzRPJkYJVQBwm59Jh7QZw4vsA&s=1792110723&e=43200&v=397150492&srv=s14&i=0.0&sp=0&fr=p7h65pr4l32z&r=e"
+    ],
+    "URL_DIRECTA": "https://p7.vimeos.zip/hls2/02/00007/p7h65pr4l32z_,n,h,.urlset/master.m3u8?t=ABXBb5JNY2V1czuzJbYzRPJkYJVQBwm59Jh7QZw4vsA&s=1792110723&e=43200&v=397150492&srv=s14&i=0.0&sp=0&fr=p7h65pr4l32z&r=e",
+    "_EXTRACTED_BY_URL": {
+      "https://vimeos.net/embed-p7h65pr4l32z.html": "https://p7.vimeos.zip/hls2/02/00007/p7h65pr4l32z_,n,h,.urlset/master.m3u8?t=ABXBb5JNY2V1czuzJbYzRPJkYJVQBwm59Jh7QZw4vsA&s=1792110723&e=43200&v=397150492&srv=s14&i=0.0&sp=0&fr=p7h65pr4l32z&r=e"
+    }
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 337404,
+    "ID_VIDEO": "fjxz3dlhoyqw",
+    "PLATAFORMA": "Vimeos",
+    "TITULO": "Cruella",
+    "FECHA": "2021-05-26",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/tNFBP5OTmKm7CTc5ptUwgmepd8G.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/6MKr3KgOLmzOP6MSuZERO41Lpkt.jpg",
+    "GENERO": "Comedia, Crimen, Drama",
+    "RATING": 7.967,
+    "DURACION": 134,
+    "FRASE_PROMOCIONAL": "Brillante. Malvada. Un poco loca.",
+    "SINOPSIS": "\"Cruella\" se sumerge en la juventud rebelde de uno de los villanos más conocidos -y más de moda-, nada menos que la legendaria Cruella de Vil. Emma Stone encarna a Estella, alias Cruella, junto a Emma Thompson como la Baronesa, la directora de una prestigiosa firma de moda que convierte a Estella en una incipiente diseñadora. La cinta está ambientada en el contexto del punk-rock londinense de los 70.",
+    "ACTORES": "  • Emma Stone (Estella / Cruella)\n  • Emma Thompson (The Baroness)\n  • Joel Fry (Jasper)\n  • Paul Walter Hauser (Horace)\n  • John McCrea (Artie)",
+    "DIRECTOR": "Craig Gillespie",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://vimeos.net/embed-fjxz3dlhoyqw.html"
+    ],
+    "METODO": "AUTOMATICO",
+    "URLS_DIRECTAS": [
+      "https://p3.vimeos.zip/hls2/02/00003/fjxz3dlhoyqw_,n,h,.urlset/master.m3u8?t=aKGXNCqPw620g1JFPg7dhEf-lBPlYoaB-kPaPpaI_TM&s=1792110724&e=43200&v=397150517&srv=s10&i=0.0&sp=0&r=e"
+    ],
+    "URL_DIRECTA": "https://p3.vimeos.zip/hls2/02/00003/fjxz3dlhoyqw_,n,h,.urlset/master.m3u8?t=aKGXNCqPw620g1JFPg7dhEf-lBPlYoaB-kPaPpaI_TM&s=1792110724&e=43200&v=397150517&srv=s10&i=0.0&sp=0&r=e",
+    "_EXTRACTED_BY_URL": {
+      "https://vimeos.net/embed-fjxz3dlhoyqw.html": "https://p3.vimeos.zip/hls2/02/00003/fjxz3dlhoyqw_,n,h,.urlset/master.m3u8?t=aKGXNCqPw620g1JFPg7dhEf-lBPlYoaB-kPaPpaI_TM&s=1792110724&e=43200&v=397150517&srv=s10&i=0.0&sp=0&r=e"
+    }
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 1084242,
+    "ID_VIDEO": "vq0t3hf4jlgq",
+    "PLATAFORMA": "Vimeos",
+    "TITULO": "Zootopia 2",
+    "FECHA": "2025-11-26",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/LrMBxFwnsMgXTnaWqHYinn3vDN.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
+    "GENERO": "Animación, Aventura, Comedia, Misterio, Familia",
+    "RATING": 7.673,
+    "DURACION": 107,
+    "FRASE_PROMOCIONAL": "Zootopia cambiará para siempre...",
+    "SINOPSIS": "Tras resolver el caso más importante de la historia de Zootopia, los policías novatos Judy Hopps y Nick Wilde se encuentran en la sinuosa pista de un gran misterio cuando Gary De'Snake llega y revoluciona la metrópolis animal.",
+    "ACTORES": "  • Ginnifer Goodwin (Judy Hopps (voice))\n  • Jason Bateman (Nick Wilde (voice))\n  • Ke Huy Quan (Gary De'Snake (voice))\n  • Fortune Feimster (Nibbles Maplestick (voice))\n  • Andy Samberg (Pawbert Lynxley (voice))",
+    "DIRECTOR": "Jared Bush",
+    "TRAILER": "https://youtube.com/watch?v=4_KaABhCPPk",
+    "URLS": [
+      "https://vimeos.net/embed-vq0t3hf4jlgq.html"
+    ],
+    "METODO": "AUTOMATICO",
+    "URLS_DIRECTAS": [
+      "https://s10.vimeos.net/hls2/02/00010/vq0t3hf4jlgq_,n,h,.urlset/master.m3u8?t=GVf3jv5fsJCbnRnLZSazYnSBX_lEaHaXTblGeZyfz5k&s=1792110725&e=43200&v=397150547&i=0.0&sp=0&fr=vq0t3hf4jlgq&r=e"
+    ],
+    "URL_DIRECTA": "https://s10.vimeos.net/hls2/02/00010/vq0t3hf4jlgq_,n,h,.urlset/master.m3u8?t=GVf3jv5fsJCbnRnLZSazYnSBX_lEaHaXTblGeZyfz5k&s=1792110725&e=43200&v=397150547&i=0.0&sp=0&fr=vq0t3hf4jlgq&r=e",
+    "_EXTRACTED_BY_URL": {
+      "https://vimeos.net/embed-vq0t3hf4jlgq.html": "https://s10.vimeos.net/hls2/02/00010/vq0t3hf4jlgq_,n,h,.urlset/master.m3u8?t=GVf3jv5fsJCbnRnLZSazYnSBX_lEaHaXTblGeZyfz5k&s=1792110725&e=43200&v=397150547&i=0.0&sp=0&fr=vq0t3hf4jlgq&r=e"
+    }
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 568124,
+    "ID_VIDEO": "uwehsgzk8zea",
+    "PLATAFORMA": "Vimeos",
+    "TITULO": "Encanto",
+    "FECHA": "2021-10-13",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/7L805Kq0m1e7i5sJont9bLiPEQ6.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
+    "GENERO": "Animación, Comedia, Familia, Fantasía",
+    "RATING": 7.565,
+    "DURACION": 99,
+    "FRASE_PROMOCIONAL": "En la familia Madrigal todos son mágicos... excepto una.",
+    "SINOPSIS": "Encanto relata la historia de una familia extraordinaria; los Madrigal, quienes viven escondidos en las montañas de Colombia, en una casa mágica, un pueblo vibrante y en un lugar maravilloso llamado Encanto. La magia del Encanto ha bendecido a cada niño de la familia con un don único, desde la superfuerza hasta el poder de sanar; a todos, excepto Mirabel, quien desea ser tan especial como el resto de su familia.  Pero cuando la magia que rodea al Encanto está en peligro, Mirabel decide que ella, la única Madrigal sin ningún tipo de don único, puede ser la única esperanza de su excepcional familia.",
+    "ACTORES": "  • Stephanie Beatriz (Mirabel Madrigal (voice))\n  • María Cecilia Botero (Abuela Alma Madrigal (voice))\n  • John Leguizamo (Bruno Madrigal (voice))\n  • Diane Guerrero (Isabela Madrigal (voice))\n  • Jess Darrow (Luisa Madrigal (voice))",
+    "DIRECTOR": "Byron Howard",
+    "TRAILER": "https://youtube.com/watch?v=4wmnq95hj70",
+    "URLS": [
+      "https://vimeos.net/embed-uwehsgzk8zea.html"
+    ],
+    "METODO": "AUTOMATICO",
+    "URLS_DIRECTAS": [
+      "https://p2.vimeos.zip/hls2/03/00000/uwehsgzk8zea_,n,h,.urlset/master.m3u8?t=K2dpyMMYuvHw0LvzkMFtXB3u6nDy65hlffql4fqcECQ&s=1792110727&e=43200&v=397150571&srv=s9&i=0.0&sp=0&r=e"
+    ],
+    "URL_DIRECTA": "https://p2.vimeos.zip/hls2/03/00000/uwehsgzk8zea_,n,h,.urlset/master.m3u8?t=K2dpyMMYuvHw0LvzkMFtXB3u6nDy65hlffql4fqcECQ&s=1792110727&e=43200&v=397150571&srv=s9&i=0.0&sp=0&r=e",
+    "_EXTRACTED_BY_URL": {
+      "https://vimeos.net/embed-uwehsgzk8zea.html": "https://p2.vimeos.zip/hls2/03/00000/uwehsgzk8zea_,n,h,.urlset/master.m3u8?t=K2dpyMMYuvHw0LvzkMFtXB3u6nDy65hlffql4fqcECQ&s=1792110727&e=43200&v=397150571&srv=s9&i=0.0&sp=0&r=e"
+    }
+  },
+  {
+    "CATEGORIA": "GENERAL",
+    "TMDB_ID": 14317,
+    "ID_VIDEO": "8z7kq19w5l4g",
+    "PLATAFORMA": "Vimeos",
+    "TITULO": "Los Thornberrys: la película",
+    "FECHA": "2002-12-20",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/28KmgwVpcmSy51AfeuFcUFbnPE2.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/xAsjesWKuxkMub8w8GRoMjZYRZm.jpg",
+    "GENERO": "Familia, Comedia, Aventura, Animación",
+    "RATING": 6.487,
+    "DURACION": 85,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Eliza y Debbie son dos hermanas que no siempre se llevan bien. Pero su relación se pone a prueba cuando la vida de Debbie corre peligro y Eliza podría tener que renunciar a su poder de hablar con los animales.",
+    "ACTORES": "  • Lacey Chabert (Eliza Thornberry (voice))\n  • Tom Kane (Darwin (voice))\n  • Cree Summer (Phaedra (Elephant) (voice))\n  • Tim Curry (Nigel Thornberry / Col. Radcliff Thornberry (voice))\n  • Lynn Redgrave (Cordelia Thornberry (voice))",
+    "DIRECTOR": "Jeff McGrath",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://vimeos.net/embed-8z7kq19w5l4g.html"
+    ],
+    "METODO": "AUTOMATICO",
+    "URLS_DIRECTAS": [
+      "https://s9.vimeos.net/hls2/02/00011/8z7kq19w5l4g_,n,h,.urlset/master.m3u8?t=sdkEtMLTdnpRAVIrwGYEU4YQikrqMdJY5z2jSjCCosQ&s=1792110728&e=43200&v=397150602&i=0.0&sp=0&fr=8z7kq19w5l4g&r=e"
+    ],
+    "URL_DIRECTA": "https://s9.vimeos.net/hls2/02/00011/8z7kq19w5l4g_,n,h,.urlset/master.m3u8?t=sdkEtMLTdnpRAVIrwGYEU4YQikrqMdJY5z2jSjCCosQ&s=1792110728&e=43200&v=397150602&i=0.0&sp=0&fr=8z7kq19w5l4g&r=e",
+    "_EXTRACTED_BY_URL": {
+      "https://vimeos.net/embed-8z7kq19w5l4g.html": "https://s9.vimeos.net/hls2/02/00011/8z7kq19w5l4g_,n,h,.urlset/master.m3u8?t=sdkEtMLTdnpRAVIrwGYEU4YQikrqMdJY5z2jSjCCosQ&s=1792110728&e=43200&v=397150602&i=0.0&sp=0&fr=8z7kq19w5l4g&r=e"
+    }
+  },
+  {
+    "CATEGORIA": "2026",
+    "TMDB_ID": 1226863,
+    "ID_VIDEO": "v7hdakih9470",
+    "PLATAFORMA": "Vimeos",
+    "TITULO": "Super Mario Galaxy: La película",
+    "FECHA": "2026-04-01",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/4Js0gYWxuvTN6b8iAaSF1cSQzBs.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+    "GENERO": "Familia, Comedia, Aventura, Fantasía, Animación",
+    "RATING": 8.222,
+    "DURACION": 98,
+    "FRASE_PROMOCIONAL": "La galaxia te espera.",
+    "SINOPSIS": "Mario y Luigi se enfrentan una nueva amenaza: Bowser Jr., quién está decidido liberar a su padre del cautiverio y restaurar el legado familiar. Junto con nuevos y viejos compañeros, los hermanos viajan a través de las estrellas para detener la cruzada del joven heredero.",
+    "ACTORES": "  • Chris Pratt (Mario (voice))\n  • Charlie Day (Luigi (voice))\n  • Anya Taylor-Joy (Princess Peach (voice))\n  • Jack Black (Bowser (voice))\n  • Keegan-Michael Key (Toad (voice))",
+    "DIRECTOR": "Michael Jelenic",
+    "TRAILER": "https://youtube.com/watch?v=ipzEY7c7it8",
+    "URLS": [
+      "https://vimeos.net/embed-v7hdakih9470.html"
+    ],
+    "METODO": "AUTOMATICO",
+    "URLS_DIRECTAS": [
+      "https://s10.vimeos.net/hls2/03/00010/v7hdakih9470_,n,h,.urlset/master.m3u8?t=dMhuuqU4rnqmbzv1lFiwL8e35yBQIUd2wOWTzstlPQQ&s=1791550129&e=43200&v=386104115&i=0.0&sp=0&fr=v7hdakih9470&r=e",
+      "https://p5.vimeos.zip/hls2/03/00010/v7hdakih9470_,n,h,.urlset/master.m3u8?t=QOrQlbepRwVwFXFdbCjjA9iARgCv3UOea7NWcNBge4k&s=1792110729&e=43200&v=397150623&srv=s10&i=0.0&sp=0&fr=v7hdakih9470&r=e"
+    ],
+    "URL_DIRECTA": "https://s10.vimeos.net/hls2/03/00010/v7hdakih9470_,n,h,.urlset/master.m3u8?t=dMhuuqU4rnqmbzv1lFiwL8e35yBQIUd2wOWTzstlPQQ&s=1791550129&e=43200&v=386104115&i=0.0&sp=0&fr=v7hdakih9470&r=e",
+    "_EXTRACTED_BY_URL": {
+      "https://vimeos.net/embed-v7hdakih9470.html": "https://p5.vimeos.zip/hls2/03/00010/v7hdakih9470_,n,h,.urlset/master.m3u8?t=QOrQlbepRwVwFXFdbCjjA9iARgCv3UOea7NWcNBge4k&s=1792110729&e=43200&v=397150623&srv=s10&i=0.0&sp=0&fr=v7hdakih9470&r=e"
+    }
+  },
+  {
+    "CATEGORIA": "2026",
+    "TMDB_ID": 1327819,
+    "ID_VIDEO": "ccx4x6hr8abz",
+    "PLATAFORMA": "Vimeos",
+    "TITULO": "Hoppers: Operación castor",
+    "FECHA": "2026-03-04",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/yONVGkDGZ07WGAR5Fq0GErzHUZ9.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+    "GENERO": "Aventura, Animación, Comedia, Familia, Ciencia ficción",
+    "RATING": 8.153,
+    "DURACION": 105,
+    "FRASE_PROMOCIONAL": "Naturaleza. Humana.",
+    "SINOPSIS": "Mabel, una amante de los animales, utiliza una nueva e inteligente tecnología diseñada para \"transmitir\" la conciencia humana a animales robóticos realistas en un intento de comunicarse con los castores, descubriendo misterios dentro del mundo animal más allá de lo que pudiera haber imaginado.",
+    "ACTORES": "  • Piper Curda (Mabel (voice))\n  • Bobby Moynihan (King George (voice))\n  • Jon Hamm (Mayor Jerry Generazzo (voice))\n  • Kathy Najimy (Dr. Sam (voice))\n  • Dave Franco (Insect King (voice))",
+    "DIRECTOR": "Daniel Chong",
+    "TRAILER": "https://youtube.com/watch?v=9P_3xFt3HBk",
+    "URLS": [
+      "https://vimeos.net/embed-ccx4x6hr8abz.html"
+    ],
+    "METODO": "AUTOMATICO",
+    "URLS_DIRECTAS": [
+      "https://p6.vimeos.zip/hls2/03/00010/ccx4x6hr8abz_,n,h,.urlset/master.m3u8?t=ZG3ensZpneKgWZQz9F0fLbU3k3Fo96x2rBBKEGm-dLA&s=1792110730&e=43200&v=397150668&srv=s12&i=0.3&sp=0&fr=ccx4x6hr8abz&r=e"
+    ],
+    "URL_DIRECTA": "https://p6.vimeos.zip/hls2/03/00010/ccx4x6hr8abz_,n,h,.urlset/master.m3u8?t=ZG3ensZpneKgWZQz9F0fLbU3k3Fo96x2rBBKEGm-dLA&s=1792110730&e=43200&v=397150668&srv=s12&i=0.3&sp=0&fr=ccx4x6hr8abz&r=e",
+    "_EXTRACTED_BY_URL": {
+      "https://vimeos.net/embed-ccx4x6hr8abz.html": "https://p6.vimeos.zip/hls2/03/00010/ccx4x6hr8abz_,n,h,.urlset/master.m3u8?t=ZG3ensZpneKgWZQz9F0fLbU3k3Fo96x2rBBKEGm-dLA&s=1792110730&e=43200&v=397150668&srv=s12&i=0.3&sp=0&fr=ccx4x6hr8abz&r=e"
+    }
+  },
+  {
+    "CATEGORIA": "2026",
+    "TMDB_ID": 1315772,
+    "ID_VIDEO": "rxibp0g06k4r",
+    "PLATAFORMA": "Vimeos",
+    "TITULO": "Minions & Monstruos",
+    "FECHA": "2026-06-24",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/uNtBRRLNsCiCcqccv3CMWPx5Xz.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+    "GENERO": "Aventura, Animación, Comedia, Familia, Fantasía",
+    "RATING": 7.548,
+    "DURACION": 90,
+    "FRASE_PROMOCIONAL": "Hollywood tiene un problema monstruoso.",
+    "SINOPSIS": "Esta es la historia alocada, ridícula y totalmente verídica de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+    "ACTORES": "  • Pierre Coffin (The Minions (voice))\n  • Trey Parker (Goomi (voice))\n  • Christoph Waltz (Max (voice))\n  • Allison Janney (Olivia (voice))\n  • Jesse Eisenberg (Dort (voice))",
+    "DIRECTOR": "Pierre Coffin",
+    "TRAILER": "https://youtube.com/watch?v=4Wm2P-4Ilvc",
+    "URLS": [
+      "https://vimeos.net/embed-rxibp0g06k4r.html"
+    ],
+    "METODO": "AUTOMATICO",
+    "URLS_DIRECTAS": [
+      "https://s9.vimeos.net/hls2/03/00012/7wcprvd9l080_,n,h,.urlset/master.m3u8?t=dBdp6Zbey_F1374DlIDdwM26uWloCDgrunZPvrdQqCM&s=1791550132&e=43200&v=386104153&i=0.0&sp=0&fr=7wcprvd9l080&r=e",
+      "https://p4.vimeos.zip/hls2/03/00012/7wcprvd9l080_,n,h,.urlset/master.m3u8?t=O0dWj8UFZLer1h88GsbjDQ78-HwLwjDJ0QJhlpBMk-U&s=1792110731&e=43200&v=397150685&srv=s9&i=0.0&sp=0&fr=7wcprvd9l080&r=e"
+    ],
+    "URL_DIRECTA": "https://s9.vimeos.net/hls2/03/00012/7wcprvd9l080_,n,h,.urlset/master.m3u8?t=dBdp6Zbey_F1374DlIDdwM26uWloCDgrunZPvrdQqCM&s=1791550132&e=43200&v=386104153&i=0.0&sp=0&fr=7wcprvd9l080&r=e",
+    "_EXTRACTED_BY_URL": {
+      "https://vimeos.net/embed-rxibp0g06k4r.html": "https://p4.vimeos.zip/hls2/03/00012/7wcprvd9l080_,n,h,.urlset/master.m3u8?t=O0dWj8UFZLer1h88GsbjDQ78-HwLwjDJ0QJhlpBMk-U&s=1792110731&e=43200&v=397150685&srv=s9&i=0.0&sp=0&fr=7wcprvd9l080&r=e"
+    }
+  },
+  {
+    "CATEGORIA": "2026",
+    "TMDB_ID": 1218925,
+    "ID_VIDEO": "gbjdqxg2thzt",
+    "PLATAFORMA": "Vimeos",
+    "TITULO": "Chainsaw Man – La película: Arco de Reze",
+    "FECHA": "2025-09-19",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/mkU7l5MHNlzVQuCfOKcY2f1NFgy.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
+    "GENERO": "Animación, Acción, Romance, Fantasía",
+    "RATING": 8.5,
+    "DURACION": 100,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "En una brutal guerra entre demonios, cazadores y enemigos secretos, una misteriosa chica llamada Reze ha entrado en el mundo de Denji, y él enfrenta su batalla más mortal hasta ahora, impulsado por el amor en un mundo donde la supervivencia no conoce reglas.",
+    "ACTORES": "  • 戸谷菊之介 (Denji (voice))\n  • 楠木ともり (Makima (voice))\n  • 上田麗奈 (Reze (voice))\n  • 坂田将吾 (Aki (voice))\n  • 高橋花林 (Kobeni (voice))",
+    "DIRECTOR": "吉原達矢",
+    "TRAILER": "https://youtube.com/watch?v=4ab245e7JNU",
+    "URLS": [
+      "https://vimeos.net/embed-gbjdqxg2thzt.html"
+    ],
+    "METODO": "AUTOMATICO",
+    "URLS_DIRECTAS": [
+      "https://s8.vimeos.net/hls2/03/00007/gbjdqxg2thzt_,n,h,.urlset/master.m3u8?t=tAXVqztouuYQUVjaPixupwmrxoVz_9LDYWk0r5ZIjXU&s=1791550133&e=43200&v=386104172&i=0.3&sp=0&fr=gbjdqxg2thzt&r=e",
+      "https://s8.vimeos.net/hls2/03/00007/gbjdqxg2thzt_,n,h,.urlset/master.m3u8?t=Re_IkYy6xEtkPIhqS8uogdf1GUmBwvltfhx6W41vMAs&s=1792110732&e=43200&v=397150704&i=0.3&sp=0&fr=gbjdqxg2thzt&r=e"
+    ],
+    "URL_DIRECTA": "https://s8.vimeos.net/hls2/03/00007/gbjdqxg2thzt_,n,h,.urlset/master.m3u8?t=tAXVqztouuYQUVjaPixupwmrxoVz_9LDYWk0r5ZIjXU&s=1791550133&e=43200&v=386104172&i=0.3&sp=0&fr=gbjdqxg2thzt&r=e",
+    "_EXTRACTED_BY_URL": {
+      "https://vimeos.net/embed-gbjdqxg2thzt.html": "https://s8.vimeos.net/hls2/03/00007/gbjdqxg2thzt_,n,h,.urlset/master.m3u8?t=Re_IkYy6xEtkPIhqS8uogdf1GUmBwvltfhx6W41vMAs&s=1792110732&e=43200&v=397150704&i=0.3&sp=0&fr=gbjdqxg2thzt&r=e"
+    }
+  },
+  {
+    "CATEGORIA": "2026",
+    "TMDB_ID": 1117857,
+    "ID_VIDEO": "keryjncteims",
+    "PLATAFORMA": "Vimeos",
+    "TITULO": "En sueños",
+    "FECHA": "2025-11-07",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/qBfJ4x6rrhtU4Frwp3GFoBwFzsU.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/cTuFz80FozP54Aob9TYl4mF1wKk.jpg",
+    "GENERO": "Aventura, Animación, Comedia, Familia, Fantasía",
+    "RATING": 6.947,
+    "DURACION": 87,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Stevie y su hermano menor Elliot emprenden un viaje al universo absurdo de sus propios sueños para pedirle a Sandman que les conceda un deseo: tener una familia perfecta.",
+    "ACTORES": "  • Jolie Hoang-Rappaport (Stevie (voice))\n  • Elias Janssen (Elliot (voice))\n  • Simu Liu (Dad (voice))\n  • Craig Robinson (Baloney Tony (voice))\n  • Cristin Milioti (Mom / Additional Voices (voice))",
+    "DIRECTOR": "Alexander Woo",
+    "TRAILER": "https://youtube.com/watch?v=Dz0KcNJREoQ",
+    "URLS": [
+      "https://vimeos.net/embed-keryjncteims.html"
+    ],
+    "METODO": "AUTOMATICO",
+    "URLS_DIRECTAS": [
+      "https://p4.vimeos.zip/hls2/03/00006/keryjncteims_,n,h,.urlset/master.m3u8?t=uxLZfAvmyr2Ev8VcxKOJ2ACwSWMPgzXD8lM-Ay9J5L8&s=1792110734&e=43200&v=397150715&srv=s11&i=0.0&sp=0&fr=keryjncteims&r=e"
+    ],
+    "URL_DIRECTA": "https://p4.vimeos.zip/hls2/03/00006/keryjncteims_,n,h,.urlset/master.m3u8?t=uxLZfAvmyr2Ev8VcxKOJ2ACwSWMPgzXD8lM-Ay9J5L8&s=1792110734&e=43200&v=397150715&srv=s11&i=0.0&sp=0&fr=keryjncteims&r=e",
+    "_EXTRACTED_BY_URL": {
+      "https://vimeos.net/embed-keryjncteims.html": "https://p4.vimeos.zip/hls2/03/00006/keryjncteims_,n,h,.urlset/master.m3u8?t=uxLZfAvmyr2Ev8VcxKOJ2ACwSWMPgzXD8lM-Ay9J5L8&s=1792110734&e=43200&v=397150715&srv=s11&i=0.0&sp=0&fr=keryjncteims&r=e"
+    }
+  }
+]
