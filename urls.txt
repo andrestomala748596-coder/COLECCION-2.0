@@ -27386,5 +27386,27 @@
       "https://ok.ru/video/10840635738802"
     ],
     "METODO": "MANUAL"
+  },
+  {
+    "CATEGORIA": "DORAEMON",
+    "TMDB_ID": 782054,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "ok.ru",
+    "TITULO": "映画ドラえもん のび太の宇宙小戦争 2021",
+    "FECHA": "2022-03-04",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/rm218OIBgMQ3xwhZn3HFMBRBMNH.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/iflKt34Ck2JpY2PY9wW1zwdJgJi.jpg",
+    "GENERO": "Animación, Ciencia ficción, Aventura, Familia, Fantasía, Comedia",
+    "RATING": 6.6,
+    "DURACION": 108,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "",
+    "ACTORES": "  • 水田わさび (Doraemon (voice))\n  • 大原めぐみ (Nobita (voice))\n  • かかずゆみ (Shizuka (voice))\n  • 木村昴 (Gian (voice))\n  • Tomokazu Seki (Suneo (voice))",
+    "DIRECTOR": "山口晋",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://ok.ru/video/10840125672114"
+    ],
+    "METODO": "MANUAL"
   }
 ]
