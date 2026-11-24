@@ -51,9 +51,12 @@
     ],
     "URL_DIRECTA": "https://ok6-7.vkuser.net/?expires=1791635419638&srcIp=172.178.119.37&pr=10&srcAg=CHROME&ms=95.142.206.134&type=7&sig=j88zBVSWasg&ct=0&urls=178.237.23.82%3B185.226.55.56&clientType=0&zs=43&id=11814112070382",
     "URLS_DIRECTAS": [
-      "https://ok6-7.vkuser.net/?expires=1791635419638&srcIp=172.178.119.37&pr=10&srcAg=CHROME&ms=95.142.206.134&type=7&sig=j88zBVSWasg&ct=0&urls=178.237.23.82%3B185.226.55.56&clientType=0&zs=43&id=11814112070382"
+      "https://ok6-7.vkuser.net/?expires=1791635419638&srcIp=172.178.119.37&pr=10&srcAg=CHROME&ms=95.142.206.134&type=7&sig=j88zBVSWasg&ct=0&urls=178.237.23.82%3B185.226.55.56&clientType=0&zs=43&id=11814112070382",
+      "https://ok6-7.vkuser.net/?expires=1795624619471&srcIp=3.42.157.54&pr=10&srcAg=CHROME&ms=95.142.206.134&type=3&sig=Xs4favVFCHg&ct=0&urls=178.237.23.82%3B185.226.55.56&clientType=0&zs=43&id=11814112070382"
     ],
-    "_EXTRACTED_BY_URL": {},
+    "_EXTRACTED_BY_URL": {
+      "https://ok.ru/video/12356596992750": "https://ok6-7.vkuser.net/?expires=1795624619471&srcIp=3.42.157.54&pr=10&srcAg=CHROME&ms=95.142.206.134&type=3&sig=Xs4favVFCHg&ct=0&urls=178.237.23.82%3B185.226.55.56&clientType=0&zs=43&id=11814112070382"
+    },
     "_EXTRACTION_ERRORS": [
       "No se pudo extraer: https://ok.ru/video/12356596992750"
     ]
@@ -135,9 +138,12 @@
     ],
     "URL_DIRECTA": "https://ok6-6.vkuser.net/?expires=1791635426581&srcIp=172.178.119.37&pr=10&srcAg=CHROME&ms=95.142.206.133&type=3&sig=IPXzc45aVBY&ct=0&urls=95.163.35.118%3B185.226.55.27&clientType=0&zs=43&id=8524312349307",
     "URLS_DIRECTAS": [
-      "https://ok6-6.vkuser.net/?expires=1791635426581&srcIp=172.178.119.37&pr=10&srcAg=CHROME&ms=95.142.206.133&type=3&sig=IPXzc45aVBY&ct=0&urls=95.163.35.118%3B185.226.55.27&clientType=0&zs=43&id=8524312349307"
+      "https://ok6-6.vkuser.net/?expires=1791635426581&srcIp=172.178.119.37&pr=10&srcAg=CHROME&ms=95.142.206.133&type=3&sig=IPXzc45aVBY&ct=0&urls=95.163.35.118%3B185.226.55.27&clientType=0&zs=43&id=8524312349307",
+      "https://ok6-6.vkuser.net/?expires=1795624621940&srcIp=3.42.157.54&pr=10&srcAg=CHROME&ms=95.142.206.133&type=3&sig=JGpp1VWLVMs&ct=0&urls=95.163.35.118%3B185.226.55.27&clientType=0&zs=43&id=8524312349307"
     ],
-    "_EXTRACTED_BY_URL": {},
+    "_EXTRACTED_BY_URL": {
+      "https://ok.ru/video/9499578862203": "https://ok6-6.vkuser.net/?expires=1795624621940&srcIp=3.42.157.54&pr=10&srcAg=CHROME&ms=95.142.206.133&type=3&sig=JGpp1VWLVMs&ct=0&urls=95.163.35.118%3B185.226.55.27&clientType=0&zs=43&id=8524312349307"
+    },
     "_EXTRACTION_ERRORS": [
       "No se pudo extraer: https://ok.ru/video/9499578862203"
     ]
@@ -1401,9 +1407,12 @@
     ],
     "URL_DIRECTA": "https://vd714.okcdn.ru/?expires=1791635871898&srcIp=172.178.119.37&pr=10&srcAg=CHROME&ms=176.112.172.30&type=2&sig=xLGRaqu0jVE&ct=0&urls=185.180.203.33&clientType=0&zs=43&id=7393111706214",
     "URLS_DIRECTAS": [
-      "https://vd714.okcdn.ru/?expires=1791635871898&srcIp=172.178.119.37&pr=10&srcAg=CHROME&ms=176.112.172.30&type=2&sig=xLGRaqu0jVE&ct=0&urls=185.180.203.33&clientType=0&zs=43&id=7393111706214"
+      "https://vd714.okcdn.ru/?expires=1791635871898&srcIp=172.178.119.37&pr=10&srcAg=CHROME&ms=176.112.172.30&type=2&sig=xLGRaqu0jVE&ct=0&urls=185.180.203.33&clientType=0&zs=43&id=7393111706214",
+      "https://vd714.okcdn.ru/?expires=1795624626614&srcIp=3.42.157.54&pr=10&srcAg=CHROME&rjz=43&ms=176.112.172.30&type=4&sig=4EZAn4M8iAw&ct=0&urls=185.226.55.19&clientType=0&zs=43&id=7393111706214&rjr=8"
     ],
-    "_EXTRACTED_BY_URL": {},
+    "_EXTRACTED_BY_URL": {
+      "https://ok.ru/video/9235972360806": "https://vd714.okcdn.ru/?expires=1795624626614&srcIp=3.42.157.54&pr=10&srcAg=CHROME&rjz=43&ms=176.112.172.30&type=4&sig=4EZAn4M8iAw&ct=0&urls=185.226.55.19&clientType=0&zs=43&id=7393111706214&rjr=8"
+    },
     "_EXTRACTION_ERRORS": [
       "No se pudo extraer: https://ok.ru/video/9235972360806"
     ]
@@ -2280,9 +2289,12 @@
     ],
     "URL_DIRECTA": "https://vd708.okcdn.ru/?expires=1791636001494&srcIp=172.178.119.37&pr=10&srcAg=CHROME&ms=176.112.172.24&type=0&sig=5m78Zmi1e3U&ct=0&urls=178.237.29.129&clientType=0&zs=43&id=1050388204109",
     "URLS_DIRECTAS": [
-      "https://vd708.okcdn.ru/?expires=1791636001494&srcIp=172.178.119.37&pr=10&srcAg=CHROME&ms=176.112.172.24&type=0&sig=5m78Zmi1e3U&ct=0&urls=178.237.29.129&clientType=0&zs=43&id=1050388204109"
+      "https://vd708.okcdn.ru/?expires=1791636001494&srcIp=172.178.119.37&pr=10&srcAg=CHROME&ms=176.112.172.24&type=0&sig=5m78Zmi1e3U&ct=0&urls=178.237.29.129&clientType=0&zs=43&id=1050388204109",
+      "https://vd708.okcdn.ru/?expires=1795624633355&srcIp=3.42.157.54&pr=10&srcAg=CHROME&rjz=43&ms=176.112.172.24&type=4&sig=9W_NjQXMn2Y&ct=0&urls=178.237.29.129&clientType=0&zs=43&id=1050388204109&rjr=8"
     ],
-    "_EXTRACTED_BY_URL": {},
+    "_EXTRACTED_BY_URL": {
+      "https://ok.ru/video/2602656336461": "https://vd708.okcdn.ru/?expires=1795624633355&srcIp=3.42.157.54&pr=10&srcAg=CHROME&rjz=43&ms=176.112.172.24&type=4&sig=9W_NjQXMn2Y&ct=0&urls=178.237.29.129&clientType=0&zs=43&id=1050388204109&rjr=8"
+    },
     "_EXTRACTION_ERRORS": [
       "No se pudo extraer: https://ok.ru/video/2602656336461"
     ]

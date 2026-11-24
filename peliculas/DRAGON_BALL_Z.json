@@ -331,9 +331,12 @@
     ],
     "URL_DIRECTA": "https://vd598.okcdn.ru/?expires=1791635921905&srcIp=172.178.119.37&pr=10&srcAg=CHROME&ms=178.237.29.193&type=0&sig=9bHabKh9WZ0&ct=0&urls=95.163.35.58&clientType=0&zs=43&id=73075460695",
     "URLS_DIRECTAS": [
-      "https://vd598.okcdn.ru/?expires=1791635921905&srcIp=172.178.119.37&pr=10&srcAg=CHROME&ms=178.237.29.193&type=0&sig=9bHabKh9WZ0&ct=0&urls=95.163.35.58&clientType=0&zs=43&id=73075460695"
+      "https://vd598.okcdn.ru/?expires=1791635921905&srcIp=172.178.119.37&pr=10&srcAg=CHROME&ms=178.237.29.193&type=0&sig=9bHabKh9WZ0&ct=0&urls=95.163.35.58&clientType=0&zs=43&id=73075460695",
+      "https://vd598.okcdn.ru/?expires=1795624628896&srcIp=3.42.157.54&pr=10&srcAg=CHROME&rjz=43&ms=178.237.29.193&type=4&sig=ffrrGU7skYU&ct=0&urls=95.163.35.58&clientType=0&zs=43&id=73075460695&rjr=8"
     ],
-    "_EXTRACTED_BY_URL": {},
+    "_EXTRACTED_BY_URL": {
+      "https://ok.ru/video/35691366999": "https://vd598.okcdn.ru/?expires=1795624628896&srcIp=3.42.157.54&pr=10&srcAg=CHROME&rjz=43&ms=178.237.29.193&type=4&sig=ffrrGU7skYU&ct=0&urls=95.163.35.58&clientType=0&zs=43&id=73075460695&rjr=8"
+    },
     "_EXTRACTION_ERRORS": [
       "No se pudo extraer: https://ok.ru/video/35691366999"
     ]

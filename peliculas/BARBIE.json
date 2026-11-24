@@ -820,9 +820,12 @@
     ],
     "URL_DIRECTA": "https://vd539.okcdn.ru/?expires=1791635723641&srcIp=172.178.119.37&pr=10&srcAg=CHROME&ms=185.226.55.49&type=0&sig=zkeTQNnN_-c&ct=0&urls=176.112.172.122&clientType=0&zs=43&id=941929007782",
     "URLS_DIRECTAS": [
-      "https://vd539.okcdn.ru/?expires=1791635723641&srcIp=172.178.119.37&pr=10&srcAg=CHROME&ms=185.226.55.49&type=0&sig=zkeTQNnN_-c&ct=0&urls=176.112.172.122&clientType=0&zs=43&id=941929007782"
+      "https://vd539.okcdn.ru/?expires=1791635723641&srcIp=172.178.119.37&pr=10&srcAg=CHROME&ms=185.226.55.49&type=0&sig=zkeTQNnN_-c&ct=0&urls=176.112.172.122&clientType=0&zs=43&id=941929007782",
+      "https://vd539.okcdn.ru/?expires=1795624623757&srcIp=3.42.157.54&pr=10&srcAg=CHROME&rjz=43&ms=185.226.55.49&type=4&sig=50ODhNSMApQ&ct=0&urls=95.163.35.19&clientType=0&zs=43&id=941929007782&rjr=8"
     ],
-    "_EXTRACTED_BY_URL": {},
+    "_EXTRACTED_BY_URL": {
+      "https://ok.ru/video/2388379896486": "https://vd539.okcdn.ru/?expires=1795624623757&srcIp=3.42.157.54&pr=10&srcAg=CHROME&rjz=43&ms=185.226.55.49&type=4&sig=50ODhNSMApQ&ct=0&urls=95.163.35.19&clientType=0&zs=43&id=941929007782&rjr=8"
+    },
     "_EXTRACTION_ERRORS": [
       "No se pudo extraer: https://ok.ru/video/2388379896486"
     ]
