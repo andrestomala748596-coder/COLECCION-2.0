@@ -27364,5 +27364,27 @@
       "https://videa.hu/videok/film-animacio/b-u-a-e-bs-zlXRxfkqmR8Z3lYs"
     ],
     "METODO": "MANUAL"
+  },
+  {
+    "CATEGORIA": "DORAEMON",
+    "TMDB_ID": 1030587,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "ok.ru",
+    "TITULO": "映画ドラえもん のび太と空の理想郷",
+    "FECHA": "2023-03-03",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/woC9c41JyNFYbSD0ds4oioRnNkz.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/zaAo7ytwAIaQZxIPBC4kfRSPlM0.jpg",
+    "GENERO": "Animación, Familia, Aventura, Ciencia ficción, Fantasía",
+    "RATING": 7.1,
+    "DURACION": 107,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "",
+    "ACTORES": "  • 水田わさび (Doraemon (voice))\n  • 大原めぐみ (Nobita (voice))\n  • かかずゆみ (Shizuka (voice))\n  • 木村昴 (Gian (voice))\n  • Tomokazu Seki (Suneo (voice))",
+    "DIRECTOR": "堂山卓見",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://ok.ru/video/10840635738802"
+    ],
+    "METODO": "MANUAL"
   }
 ]
