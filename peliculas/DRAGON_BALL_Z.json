@@ -48,9 +48,12 @@
     ],
     "URL_DIRECTA": "https://vd678.okcdn.ru/?expires=1791635901065&srcIp=172.178.119.37&pr=10&srcAg=CHROME&ms=178.237.23.29&type=3&sig=ScBFYqQ5srY&ct=0&urls=95.163.35.117&clientType=0&zs=43&id=11938713045663",
     "URLS_DIRECTAS": [
-      "https://vd678.okcdn.ru/?expires=1791635901065&srcIp=172.178.119.37&pr=10&srcAg=CHROME&ms=178.237.23.29&type=3&sig=ScBFYqQ5srY&ct=0&urls=95.163.35.117&clientType=0&zs=43&id=11938713045663"
+      "https://vd678.okcdn.ru/?expires=1791635901065&srcIp=172.178.119.37&pr=10&srcAg=CHROME&ms=178.237.23.29&type=3&sig=ScBFYqQ5srY&ct=0&urls=95.163.35.117&clientType=0&zs=43&id=11938713045663",
+      "https://vd678.okcdn.ru/?expires=1795577599352&srcIp=134.138.62.84&pr=10&srcAg=CHROME&rjz=43&ms=178.237.23.29&type=3&sig=heCgKkhb-M4&ct=0&urls=95.163.35.117&clientType=0&zs=43&id=11938713045663&rjr=8"
     ],
-    "_EXTRACTED_BY_URL": {},
+    "_EXTRACTED_BY_URL": {
+      "https://ok.ru/video/11980354882207": "https://vd678.okcdn.ru/?expires=1795577599352&srcIp=134.138.62.84&pr=10&srcAg=CHROME&rjz=43&ms=178.237.23.29&type=3&sig=heCgKkhb-M4&ct=0&urls=95.163.35.117&clientType=0&zs=43&id=11938713045663&rjr=8"
+    },
     "_EXTRACTION_ERRORS": [
       "No se pudo extraer: https://ok.ru/video/11980354882207"
     ]
@@ -496,9 +499,12 @@
     ],
     "URL_DIRECTA": "https://vd534.okcdn.ru/?expires=1791635935767&srcIp=172.178.119.37&pr=10&srcAg=CHROME&ms=185.226.55.44&type=1&sig=V6oKyM_VsHs&ct=0&urls=185.180.203.37&clientType=0&zs=43&id=1255923190484",
     "URLS_DIRECTAS": [
-      "https://vd534.okcdn.ru/?expires=1791635935767&srcIp=172.178.119.37&pr=10&srcAg=CHROME&ms=185.226.55.44&type=1&sig=V6oKyM_VsHs&ct=0&urls=185.180.203.37&clientType=0&zs=43&id=1255923190484"
+      "https://vd534.okcdn.ru/?expires=1791635935767&srcIp=172.178.119.37&pr=10&srcAg=CHROME&ms=185.226.55.44&type=1&sig=V6oKyM_VsHs&ct=0&urls=185.180.203.37&clientType=0&zs=43&id=1255923190484",
+      "https://vd534.okcdn.ru/?expires=1795577601999&srcIp=134.138.62.84&pr=10&srcAg=CHROME&rjz=43&ms=185.226.55.44&type=1&sig=3dimWVmr6ao&ct=0&urls=185.180.203.37&clientType=0&zs=43&id=1255923190484&rjr=8"
     ],
-    "_EXTRACTED_BY_URL": {},
+    "_EXTRACTED_BY_URL": {
+      "https://ok.ru/video/2457388387028": "https://vd534.okcdn.ru/?expires=1795577601999&srcIp=134.138.62.84&pr=10&srcAg=CHROME&rjz=43&ms=185.226.55.44&type=1&sig=3dimWVmr6ao&ct=0&urls=185.180.203.37&clientType=0&zs=43&id=1255923190484&rjr=8"
+    },
     "_EXTRACTION_ERRORS": [
       "No se pudo extraer: https://ok.ru/video/2457388387028"
     ]

@@ -76,9 +76,12 @@
     ],
     "URL_DIRECTA": "https://vd626.okcdn.ru/?expires=1791636163693&srcIp=172.178.119.37&pr=10&srcAg=CHROME&ms=185.180.203.23&type=5&sig=Xp1yKd5OXDk&ct=0&urls=176.112.172.24&clientType=0&zs=43&id=5350672108159",
     "URLS_DIRECTAS": [
-      "https://vd626.okcdn.ru/?expires=1791636163693&srcIp=172.178.119.37&pr=10&srcAg=CHROME&ms=185.180.203.23&type=5&sig=Xp1yKd5OXDk&ct=0&urls=176.112.172.24&clientType=0&zs=43&id=5350672108159"
+      "https://vd626.okcdn.ru/?expires=1791636163693&srcIp=172.178.119.37&pr=10&srcAg=CHROME&ms=185.180.203.23&type=5&sig=Xp1yKd5OXDk&ct=0&urls=176.112.172.24&clientType=0&zs=43&id=5350672108159",
+      "https://vd626.okcdn.ru/?expires=1795577625401&srcIp=134.138.62.84&pr=10&srcAg=CHROME&rjz=43&ms=185.180.203.23&type=5&sig=SDE1DXtqhf8&ct=0&urls=176.112.172.50&clientType=0&zs=43&id=5350672108159&rjr=8"
     ],
-    "_EXTRACTED_BY_URL": {},
+    "_EXTRACTED_BY_URL": {
+      "https://ok.ru/video/6294114601599": "https://vd626.okcdn.ru/?expires=1795577625401&srcIp=134.138.62.84&pr=10&srcAg=CHROME&rjz=43&ms=185.180.203.23&type=5&sig=SDE1DXtqhf8&ct=0&urls=176.112.172.50&clientType=0&zs=43&id=5350672108159&rjr=8"
+    },
     "_EXTRACTION_ERRORS": [
       "No se pudo extraer: https://ok.ru/video/6294114601599"
     ]
